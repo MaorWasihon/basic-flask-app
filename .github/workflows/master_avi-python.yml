@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'avi-python'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3AF387A7A264870A44CDEB3FE60DEFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_429753D4C52148D7A9B5E3775927F964 }}
